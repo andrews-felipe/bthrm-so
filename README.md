@@ -1,5 +1,5 @@
 # SO - Exclusão Mútua | Semáforos | Fila
-Representação do problema envolvendo exclusão mútua, semáforos da disciplina de sistemas operacionais 2019.1
+Representação dinâmica com `javascript`do problema envolvendo exclusão mútua, semáforos da disciplina de sistemas operacionais 2019.1
 
 ## Questão
 Suponha que uma universidade queira mostrar o quão politicamente correta ela é, aplicando a doutrina “Separado mas igual é inerentemente desigual” da Suprema Corte dos EUA para o gênero, assim como a raça, terminando sua prática de longa data de banheiros segregados por gênero no campus. No entanto, como uma concessão para a tradição, ela decreta que se uma mulher está em um banheiro, outras mulheres podem entrar, mas nenhum homem, e vice-versa. Um sinal com uma placa móvel na porta de cada banheiro indica em quais dos três estados possíveis ele se encontra atualmente:
