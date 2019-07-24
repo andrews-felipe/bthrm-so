@@ -8,7 +8,7 @@ Suponha que uma universidade queira mostrar o quão politicamente correta ela é
 • Homens presentes.
 
 ## Como usar?
-Para usar é necessário apenas clonar o repositório e abrir o arquivo `index.html` em um navegador
+Live - https://andrews-felipe.github.io/bthrm-so/
 
 * Apresentações
 
