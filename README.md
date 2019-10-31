@@ -12,11 +12,11 @@ Live - https://andrews-felipe.github.io/bthrm-so/
 
 * Apresentações
 
-A interface contém dois botões, adicionar mulheres ou homens. a cada inclusão de um indivíduo no fluxo, as vereficações
+A interface contém dois botões, adicionar mulheres ou homens. A cada inclusão de um indivíduo no fluxo, as verificações
 de disponobilidade são efetuadas
 ![Alt text](files/01.png?raw=true "Fluxo 1")
 
-Ambos os sexos não podem estar ao mesmo tempo no banheiro, enquanto os homens estiverem dentro e não houverem vagas, os outros indivíduos ficarão em uma fila de espera.
+Ambos os sexos não podem estar ao mesmo tempo no banheiro, enquanto os homens estiverem dentro e não houverem vagas, os outros indivíduos ficarão em uma fila de espera. Também não é possível haver simultaneadade entre homem e mulher, isso quer dizer que se um homem estiver dentro do banheiro e a próxima pessoa da fila for ma mulher e existir homens na fila, esses homens poderão entrar como preferência.
 ![Alt text](files/02.png?raw=true "Fluxo 2")
 
 FIFO : Para cada indivíduo na fila, o primeiro que chegou tem a prioridade de usar, interrompendo os anteriores e mais atuais, mesmo quando a disponibilidade é para mulheres ou homens, a priporidade do primeiro indivíduo é válida
